@@ -16,7 +16,7 @@ background-color: darkkhaki;
   width: 100%;
 }
 div.left, div.middle, div.right{
-border: 3px dotted green;
+border: 5px dotted green;
 width: 100%;
 margin-left: 3%;
 float: left;
